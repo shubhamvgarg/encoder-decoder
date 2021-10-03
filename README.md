@@ -5,3 +5,4 @@
 
 #### Install tkinter by 
 #pip install tkinter
+#pip install numpy
